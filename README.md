@@ -31,3 +31,10 @@ By developing this project, you will gain hands-on experience in crafting immers
 👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
 
 and many more, including code architecture and reusability 
+
+![p3](https://github.com/enmertkaya/3dPortfolio/assets/151652097/71c6b404-632d-4a92-97ff-cd90a2dad7a0)
+![p2](https://github.com/enmertkaya/3dPortfolio/assets/151652097/2e846920-31b9-4316-a0cf-c9d63dd02139)
+![p1](https://github.com/enmertkaya/3dPortfolio/assets/151652097/d11fcbaa-f4ef-4df9-a58d-f8271963aeb1)
+
+
+
